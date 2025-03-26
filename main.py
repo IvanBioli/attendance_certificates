@@ -51,13 +51,13 @@ Best Regards,
 \vspace{0.5cm}
 
 \begin{center}
-    \includegraphics[width = 3cm]{firma_ivan.png}\hspace{1cm}
-    \includegraphics[width = 5cm]{firma_ivan.png}\hspace{1cm}
-    \includegraphics[width = 5cm, height = 2cm]{firma_ivan.png}
+    \includegraphics[width = 3cm]{signatures/firma_ivan.png}\hspace{1cm}
+    \includegraphics[width = 5cm]{signatures/firma_ivan.png}\hspace{1cm}
+    \includegraphics[width = 5cm, height = 2cm]{signatures/firma_ivan.png}
 \end{center}
 \begin{center}
-    \includegraphics[width = 5cm]{firma_ivan.png}\hspace{1cm}
-    \includegraphics[width = 5cm]{firma_ivan.png}
+    \includegraphics[width = 5cm]{signatures/firma_ivan.png}\hspace{1cm}
+    \includegraphics[width = 5cm]{signatures/firma_ivan.png}
 \end{center}
 
 \vspace{0.5cm}
@@ -66,16 +66,16 @@ January 3, 2025 \hfill Dummy City, Country
 
 \vspace{.1cm}
 \begin{center}
-    \includegraphics[width=30mm]{LOGO_GNCS.png}\hspace{10mm}
-    \includegraphics[width=30mm]{siam_logo_teal_cobranded_stack.png}\hspace{10mm}
-    \includegraphics[width=30mm]{logo_imati_box.png}\hspace{10mm}
-    \includegraphics[width=40mm]{MAIN_LOGO_suduerighe_1000x1000_Granata su bianco}
+    \includegraphics[width=30mm]{logos/LOGO_GNCS.png}\hspace{10mm}
+    \includegraphics[width=30mm]{logos/siam_logo_teal_cobranded_stack.png}\hspace{10mm}
+    \includegraphics[width=30mm]{logos/logo_imati_box.png}\hspace{10mm}
+    \includegraphics[width=40mm]{logos/MAIN_LOGO_suduerighe_1000x1000_Granata su bianco}
 \end{center}
 \vspace{8mm}
 \begin{center}
-    \includegraphics[width=30mm]{matematica_centrale_blu.png}\hspace{10mm}
-    \includegraphics[width=30mm]{Logo_Politecnico_Milano.png}\hspace{10mm}
-    \includegraphics[width=30mm]{logo_mathlab.png}
+    \includegraphics[width=30mm]{logos/matematica_centrale_blu.png}\hspace{10mm}
+    \includegraphics[width=30mm]{logos/Logo_Politecnico_Milano.png}\hspace{10mm}
+    \includegraphics[width=30mm]{logos/logo_mathlab.png}
 \end{center}
 
 \end{document}
